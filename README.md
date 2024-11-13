@@ -1,3 +1,4 @@
 # test2
 
-I changed something to create merge conflict
+>>>>>> main
+I changed something and I changed what you changed
